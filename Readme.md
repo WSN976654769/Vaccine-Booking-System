@@ -1,8 +1,8 @@
-# ELEC5619 VacBook Web Application
+# VacBook Web Application
 
 ## Background
 
-As the COVID-19 pandemic evolves, vaccination has become an important part of preventing COVID-19. This web program development, ELEC5619 course assignments as an opportunity, hope to develop a can solve the real problems of the web page. Through the development of the web page to the process and technology of web development practice learning and research.  
+As the COVID-19 pandemic evolves, vaccination has become an important part of preventing COVID-19. This web program is to improve the experience of booking vaccination and provide more useful features. Through the development of the web application to the process and technology of web development practice learning and research.  
 
 ## Install
 
